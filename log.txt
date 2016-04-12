@@ -1,0 +1,13 @@
+ASUS@DESKTOP-KMGC2LC MINGW64 /d/UP (master)
+$ git log
+commit e2f0d8c867514111314dcdf276a65a180ff847f7
+Author: Ivan <vanya.kolodko.24@gmail.com>
+Date:   Tue Apr 12 11:53:29 2016 +0300
+
+    Add status.txt
+
+commit 0c7b05217956a597719cd82faa3a274908d5d8cd
+Author: Ivan <vanya.kolodko.24@gmail.com>
+Date:   Tue Apr 12 11:50:37 2016 +0300
+
+    Add .gitignore
